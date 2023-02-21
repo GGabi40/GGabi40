@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m @GGabi40<br>- <br>- 👀 I’m interested in study and learn new things and new languages.<br>- 🚀 I’m currently learning HTML, CSS, JavaScript and I'm studying English.<br>- 🌐 You can find me on LinkedIn: https://www.linkedin.com/in/gabriela-baptista-carvalho/<br>- 📫 You can watch me coding in my YouTube Channel: @GGabi40<br>
+ 👋 Hi, I’m @GGabi40<br>- <br>- 👀 I’m interested in study and learn new things and new languages.<br>- 🚀 I’m currently learning HTML, CSS, JavaScript and I'm studying English.<br> - 📫 I like to code with my subs in my YouTube Channel: @GGabi40.<br> - 💻 I also share my daily routine in my instagram: @GGabi40.
 
 
 ## 🌐 Socials:
