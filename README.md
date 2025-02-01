@@ -1,5 +1,5 @@
 # 👋  Hi, I’m Gabriela Carvalho!
- About me: <br> <br>- 🚀 HTML, CSS, JavaScript and now I'm studying C# and .NET.<br> - 📫 I like to code with my subs in my YouTube Channel: @GGabi40.<br> - 💻 I also share my daily routine in my instagram: @GGabi40.
+  <br>- 🚀 Front-end Developer.<br> - 📫 I like to code with my subs in my YouTube Channel: @GGabi40.<br> - 💻 I also share my daily routine in my instagram: @GGabi40.
 
 # 💻 My Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
