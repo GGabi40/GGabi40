@@ -8,7 +8,8 @@
         <li>📫 YouTube: <a href="https://www.youtube.com/@GGabi40">@GGabi40</a></li>
         <li>📸 Instagram: <a href="https://www.instagram.com/GGabi40">@GGabi40</a></li>
       </ul>
-      🎨 <b>Creator of "New York at Night Theme"</b><br>
+      <hr>
+      <h3>🎨 Creator of <b>"New York at Night Theme"</b></h3>
       <a href="https://marketplace.visualstudio.com/items?itemName=GGabi40.newYorkAtNightTheme">
         <img src="https://img.shields.io/badge/VS%20Code%20Marketplace-Download-blue?style=for-the-badge&logo=visualstudiocode" />
       </a>
