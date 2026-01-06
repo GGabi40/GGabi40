@@ -1,7 +1,25 @@
-# 👋  Hi, I’m Gabriela Carvalho!
-  <br>- 🚀 **Full Stack Developer**  <br> - 💻 Frontend & Backend focused, building real-world web applications <br> - 📫 I share my coding journey and projects on my YouTube channel: [@GGabi40](https://www.youtube.com/@GGabi40). <br><br> 🎨 **Creator of "New York at Night Theme"**  
-[![Download on VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-Download-blue?style=for-the-badge&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=GGabi40.newYorkAtNightTheme)  
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h1>👋 Hi, I’m Gabriela Carvalho!</h1>
+      <ul>
+        <li>🚀 <b>Full Stack Developer</b></li>
+        <li>💻 Frontend & Backend focused, building real-world web applications</li>
+        <li>📫 YouTube: <a href="https://www.youtube.com/@GGabi40">@GGabi40</a></li>
+        <li>📸 Instagram: <a href="https://www.instagram.com/GGabi40">@GGabi40</a></li>
+      </ul>
+      🎨 <b>Creator of "New York at Night Theme"</b><br>
+      <a href="https://marketplace.visualstudio.com/items?itemName=GGabi40.newYorkAtNightTheme">
+        <img src="https://img.shields.io/badge/VS%20Code%20Marketplace-Download-blue?style=for-the-badge&logo=visualstudiocode" />
+      </a>
+    </td>
+    <td width="35%" align="center" valign="top">
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="260" />
+    </td>
+  </tr>
+</table>
 
+<br>
 
 # 💻 My Tech Stack:
 ### 🌐 Frontend Development:
