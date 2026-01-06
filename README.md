@@ -1,5 +1,5 @@
 # 👋  Hi, I’m Gabriela Carvalho!
-  <br>- 🚀 Front-end Developer. Currently studying to become a FullStack Developer<br> - 📫 I share my coding journey and projects on my YouTube channel: [@GGabi40](https://www.youtube.com/@GGabi40).<br> - 💻 I also share my daily routine in my instagram: [@GGabi40](https://www.instagram.com/GGabi40). <br><br> 🎨 **Creator of "New York at Night Theme"**  
+  <br>- 🚀 **Full Stack Developer** | 🎓 **University Technical Degree in Programming** <br> - 💻 Frontend & Backend focused, building real-world web applications <br> - 📫 I share my coding journey and projects on my YouTube channel: [@GGabi40](https://www.youtube.com/@GGabi40). <br><br> 🎨 **Creator of "New York at Night Theme"**  
 [![Download on VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-Download-blue?style=for-the-badge&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=GGabi40.newYorkAtNightTheme)  
 
 
@@ -15,14 +15,19 @@
 
 ### 🎨 UI/UX & Tools:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)  
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)  
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 
 
 ### ⚡ Backend & Others:
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)   
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+
+### 🗄️ Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### 🛠 Other Skills & Hobbies:
 🎮 *I enjoy game development as a hobby using Unity!* <br>
@@ -31,8 +36,3 @@
 ## 🌐 Follow my Journey:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriela-baptista-carvalho) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ggabi40) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@aggabi40) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@@GGabi40) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/ggabi40) 
 
-
-<!---
-GGabi40/GGabi40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
